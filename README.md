@@ -17,4 +17,4 @@ Un program de testare Automată în Java.
 
 ## Loops Homework
 
-Prima temă dată la acest curs (folosește bazele programării cu Java).
+Prima temă dată la acest curs (folosește bazele programării în Java).
