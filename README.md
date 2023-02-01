@@ -9,7 +9,7 @@ Acesta este Proiectul Final care conține o parte din conceptele învățate în
 
 ## LEETCODE
 
-Aici sunt rezolvate în limbajul Java 5 probleme de algoritmică de pe platforma Leetcode, împreună cu Unit Tests corespunzătoare.
+Aici sunt rezolvate în limbajul Java 5 probleme de algoritmică (dificultate Medie) de pe platforma Leetcode, împreună cu Unit Tests corespunzătoare.
 
 ## Test Automation
 
