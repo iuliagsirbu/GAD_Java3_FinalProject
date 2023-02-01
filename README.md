@@ -3,7 +3,7 @@
 Acesta este Proiectul Final care conține o parte din conceptele învățate în cadrul cursului Java, organizat de Google - Atelierul Digital.
 
 ## Cuprins
-- [LEETCODE](#leetcode
+- [LEETCODE](#leetcode)
 - [TestAutomation](#test-automation)
 - [LoopsHomework](#loops-homework)
 
