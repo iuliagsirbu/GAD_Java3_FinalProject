@@ -9,11 +9,11 @@ Acesta este Proiectul Final care conține o parte din conceptele învățate în
 
 ## LEETCODE
 
-Aici sunt rezolvate în limbajul Java 5 probleme de algoritmică (dificultate Medie) de pe platforma Leetcode, împreună cu Unit Tests corespunzătoare.
+Aici sunt rezolvate în limbajul Java 5 probleme de algoritmică (dificultate Medie) de pe platforma LeetCode, împreună cu Unit Tests corespunzătoare.
 
 ## Test Automation
 
-Un program de testare Automată în Java.
+Un program de Testare Automată în Java.
 
 ## Loops Homework
 
